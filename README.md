@@ -42,10 +42,10 @@ module.exports = {
 
 8. Create .gitignore with this inside: 
 ```javascript
-node_modules
+    node_modules
     .DS_Store
     dist 
-    ```
+```
 9. Create folder app inside your project folder and run `touch index.js index.css index.html`
 10. Create .babelrc in the project's folder and add below inside:
 
