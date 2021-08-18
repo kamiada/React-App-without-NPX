@@ -41,14 +41,17 @@ module.exports = {
 ```
 
 8. Create .gitignore with this inside: 
-``  node_modules
+```javascript
+node_modules
     .DS_Store
-    dist ``
+    dist 
+    ```
 9. Create folder app inside your project folder and run `touch index.js index.css index.html`
 10. Create .babelrc in the project's folder and add below inside
-``
+```javascript
+
 {
     "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
-``
+```
 11. Add your code, run `npm start` in the console
