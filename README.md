@@ -47,9 +47,9 @@ node_modules
     dist 
     ```
 9. Create folder app inside your project folder and run `touch index.js index.css index.html`
-10. Create .babelrc in the project's folder and add below inside
-```javascript
+10. Create .babelrc in the project's folder and add below inside:
 
+```javascript
 {
     "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
