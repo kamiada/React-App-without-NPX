@@ -52,10 +52,3 @@ module.exports = {
 }
 ``
 11. Add your code, run `npm start` in the console
-
-
-
-
-
-
-Tutorial to follow in order to learn Redux: https://redux.js.org/tutorials/quick-start
